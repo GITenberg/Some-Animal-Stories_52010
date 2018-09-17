@@ -1,0 +1,32 @@
+_repo: Some-Animal-Stories_52010
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roberts, Charles G. D., Sir
+    aliases:
+    - Roberts, Charles George Douglas, Sir
+    - Roberts, Sir Charles George Douglas
+    birthdate: 1860
+    deathdate: 1943
+    gutenberg_agent_id: '2272'
+    url: http://www.gutenberg.org/2009/agents/2272
+    wikipedia: http://en.wikipedia.org/wiki/Charles_G._D._Roberts
+description: ''
+gutenberg_issued: '2016-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52010'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Animals -- Anecdotes'
+- GITenberg
+tableOfContents: Do seek their meat from god -- "The young ravens that call upon him"
+  -- Strayed -- The watchers in the swamp -- Quills the indifferent -- Stripes the
+  unconcerned -- The black mule of Aveluy -- Star-nose of the under ways -- Kroof,
+  the she-bear -- The initiation of Miranda -- A royal marauder.
+title: Some Animal Stories
+url: http://www.gutenberg.org/ebooks/52010
